@@ -113,7 +113,7 @@
 1. Desktop Environtment apa saja yang ada di Ubuntu? Sebutkan DE yang sedang digunakan.
 2. Apa itu Repository Linux? Sebutkan Repository yang sedang digunakan.
 3. Buat Lamaran Kerja menggunakan LibreOffice Writer.
-   - Berikut dokumennya: 
+   - Berikut dokumennya: [Lamaran Kerja](https://praktikum-posa.github.io/praktikum-dua/assets/Lamaran Kerja.pdf).
 4. Buat Laporan Keuangan menggunakan LibreOffice Calc.
-   - Berikut dokumennya:
+   - Berikut dokumennya: [Laporan Keuangan](https://praktikum-posa.github.io/praktikum-dua/assets/Laporan Keuangan.pdf).
 5. Apa evaluasi praktikum kedua? apa masukan dan saran?
